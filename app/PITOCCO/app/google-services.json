@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200544023758",
+    "project_id": "tpfinaldap-5abf0",
+    "storage_bucket": "tpfinaldap-5abf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200544023758:android:eb09797f85be7229f58c9f",
+        "android_client_info": {
+          "package_name": "com.example.feli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9v3w9LFsWP72EI_sd8065xgwheI2uWSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
